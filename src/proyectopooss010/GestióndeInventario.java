@@ -67,6 +67,11 @@ public class GestióndeInventario extends javax.swing.JFrame {
         jTextField3.setText("jTextField3");
 
         jTextField4.setText("jTextField4");
+        jTextField4.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jTextField4ActionPerformed(evt);
+            }
+        });
 
         jTextField5.setText("jTextField5");
 
@@ -154,6 +159,12 @@ public class GestióndeInventario extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void jTextField4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField4ActionPerformed
+        // TODO add your handling code here:
+        
+        //if ()najsdnjasndo{,a.sd.
+    }//GEN-LAST:event_jTextField4ActionPerformed
 
     /**
      * @param args the command line arguments
